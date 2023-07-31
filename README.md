@@ -9,33 +9,31 @@
 <h2>İlgi Alanlarım</h2>
 
 
-    <ol>
-        <div>
-            <li>Film
-                <ul>
-                    <li>
-                        <a href="https://www.imdb.com/title/tt3393786/" target="_blank">Jack Reacher:Never Go Back</a>
-                    </li>
-                    <li>Transformers</li>
-                    <li>Marvel</li>
-                </ul>
-
+<ol>
+<div>
+    <li>Film
+        <ul>
+            <li>
+            <a href="https://www.imdb.com/title/tt3393786/" target="_blank">Jack Reacher:Never Go Back</a>
             </li>
-        </div>
+            <li>Transformers</li>
+            <li>Marvel</li>
+        </ul></li>
+</div>
 
 
-    <div>
-        <li>Dizi
-            <ul>
-                <li>
-                    <a href="https://www.imdb.com/title/tt9660182/">Resident Evil</a>
-                </li>
-                <li>The Walking Dead</li>
-                <li>Prison Break</li>
-            </ul>
+<div>
+    <li>Dizi
+        <ul>
+            <li>
+                <a href="https://www.imdb.com/title/tt9660182/">Resident Evil</a>
+            </li>
+            <li>The Walking Dead</li>
+            <li>Prison Break</li>
+        </ul></li>
+</div>
+    
 
-        </li>
-    </div>
 
 
 <div>
@@ -46,10 +44,10 @@
             </li>
             <li>Gazap Kuşları</li>
             <li>Garcia'ya Mektup</li>
-        </ul>
-
-    </li>
+        </ul></li>
 </div>
+
+
 
 </ol>
 <h1>Sevdiğim Diziler</h1>
