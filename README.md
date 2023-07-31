@@ -1,28 +1,13 @@
-# Kodluyoruz İlk Repo
-Bu repo [kodluyoruz](https://kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+<h1>Murat Kalkan</h1>
 
-![](md.png)
+<!-- Tanıtım Yazisi -->
+<h2>Hakkımda</h2>
 
-## Installation
-Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
-```
-git clone https://github.com/MurattKalkann/kodluyoruzilkrepo.git
-```
+<p>Merhaba ben Murat Kalkan. Kocaeli'de yaşıyorum. Teknolojiyi takip etmeyi ve spor yapmayı çok seviyorum. Web geliştirme üzerine çalışmalar yapmak istiyorum aslında hedefim bir Full-Stack Developer olmak.</p>
 
+<!-- Hobileri tanıtım -->
+<h2>Sevdiğim Diziler</h2>
 
-## Usage
-Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+<h2>Prison Break</h2>
 
-Linux için:
-```
-cd kodluyoruzilkrepo
-code .
-```
-## Contributing
-Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
-
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-
+<p>Bu filmde hapishaneye girip kardeşini kurtarmaya çalışan bir ana karakter hikayesi, kardeşi için her türlü zorluğu üstlenen ve korkusuz bir film, herkese tavsiye ederim.</p>
